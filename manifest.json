@@ -1,6 +1,6 @@
 {
   "name": "Revert DevTools",
-  "description": "Revert DevTools to the pre-update colors and font.",
+  "description": "Revert DevTools to its previous design.",
   "version": "1.0",
   "icons": {
     "288": "icon.png"
