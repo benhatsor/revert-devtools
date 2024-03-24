@@ -1,0 +1,14 @@
+{
+  "name": "Revert DevTools",
+  "description": "Revert DevTools to the pre-update colors and font.",
+  "version": "1.0",
+  "icons": {
+    "288": "icon.png"
+  },
+
+  "devtools_page": "devtools.html",
+
+  "manifest_version": 3,
+  "author": "benhatsor",
+  "homepage_url": "https://github.com/benhatsor/revert-devtools"
+}
