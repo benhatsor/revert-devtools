@@ -8,7 +8,7 @@ This extension allows you to restore DevTools to its previous design in newer ve
 
 # Get
 
-*Chrome Web Store* (Pending review)
+[Chrome Web Store](https://chromewebstore.google.com/detail/revert-devtools/dimmdogdgnabpdkigefbjanfngndglil)
 
 **Important:** By default, DevTools doesn't load custom themes created by browser extensions. To enable this:
 
